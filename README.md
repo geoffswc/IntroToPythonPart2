@@ -13,7 +13,7 @@ https://swcarpentry.github.io/python-novice-gapminder/
 In Intro to Python Part 2, we cover:
 
 * Reading Tabular Data into Data Frames (Ch7)
-* Pandas DataFrames (Ch7)
+* Pandas DataFrames (Ch8)
 * Plotting (Ch9)
 
 ### Workbooks
