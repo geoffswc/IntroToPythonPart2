@@ -6,16 +6,16 @@ The "Intro to Python Part 2" workshop focuses on file and string processing, tab
 
 ### Links
 
-The workshop is based on the "Plotting and Programming with Python" tutorial from software carpentry.
+The workshop is based on the "Plotting and Programming with Python" tutorial from software carpentry. 
 
 https://swcarpentry.github.io/python-novice-gapminder/
+
+In Intro to Python Part 2, we cover:
 
 * Reading Tabular Data into Data Frames (Ch7)
 * Pandas DataFrames (Ch7)
 * Plotting (Ch9)
-* Looping over Data Sets (Ch14)
 
 ### Workbooks
 
-This repository contains workshop notebooks for the SOftware Carpentry tutorials listed above as well as a few notebooks for additional material.
-
+This repository contains workshop notebooks for the Software Carpentry tutorials listed above as well as a few notebooks for additional material.
